@@ -62,7 +62,7 @@ ADD (-S) accuracy listed below. Eggbox and glue is calculated with ADD(-S).
 | 12 Holepuncher | 0.468        |
 | Average        | 0.464        |
 
-#Reference:
+# Reference:
 
 《Estimating 6D Pose From Localizing Designated Surface Keypoints》
 
