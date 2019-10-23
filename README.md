@@ -1,6 +1,8 @@
 # Research-on-Pose-Estimation-of-Objects-1
 物体位姿估计研究-1：复现位姿估计论文《Estimating 6D Pose From Localizing Designated Surface Keypoints》
 
+物体位姿估计交流群：756535271，欢迎各位大佬入群交流！
+
 ## Pipeline
 
 ### Prepare Data
